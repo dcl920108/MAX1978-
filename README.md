@@ -1,7 +1,7 @@
 **TEC_ControlApp**
 
 **Description**
-A KivyMD-based GUI application for controlling a TEC (Thermo-Electric Cooler) via the MAX1978 controller and monitoring temperature with an AD7928-based sensor. Features include:
+A KivyMD-based GUI application for controlling a TEC (Thermo-Electric Cooler) via the MAX1978 controller and monitoring temperature through an NTC thermistor connected to the AD7928 ADC. Features include:
 
 * Set target temperature using a slider.
 * Emergency stop for the TEC controller (MAX1978).

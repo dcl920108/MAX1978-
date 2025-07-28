@@ -44,7 +44,7 @@ pip3 install kivy kivymd RPi.GPIO
 **Usage**
 
 ```bash
-python3 motor_control_app.py
+python3 TEC_control_app.py
 ```
 
 * Use the slider to choose a temperature between 15°C and 99°C.
@@ -56,7 +56,7 @@ python3 motor_control_app.py
 
 ```
 project_folder/
-├── motor_control_app.py   # Main application
+├── TEC_control_app.py   # Main application
 ├── TEC_0602_2025.py       # TEC controller definitions
 ├── ad7928_0917001.py      # Temperature sensor definitions
 ├── README.md              # This file
@@ -114,7 +114,7 @@ pip3 install kivy kivymd RPi.GPIO
 **使用方法**
 
 ```bash
-python3 motor_control_app.py
+python3 TEC_control_app.py
 ```
 
 * 使用滑块选择 15°C 到 99°C 之间的温度。
@@ -126,7 +126,7 @@ python3 motor_control_app.py
 
 ```
 project_folder/
-├── motor_control_app.py   # 主程序
+├── TEC_control_app.py   # 主程序
 ├── TEC_0602_2025.py       # TEC 控制器定义
 ├── ad7928_0917001.py      # 温度传感器定义
 ├── README.md              # 本文件

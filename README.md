@@ -68,7 +68,7 @@ MIT License
 
 ---
 
-**MotorControlApp**
+**TEC_ControlApp**
 
 **项目描述**
 一个基于 KivyMD 的 GUI 应用，用于通过 MAX1978 控制 TEC（热电制冷器），并使用基于 AD7928 的传感器监测温度。功能包括：
